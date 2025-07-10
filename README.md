@@ -9,11 +9,15 @@ Minecraft 配布ワールド 「The Unusual SkyBlock v13α EZ」データパッ�
 リリース用 Branch 1.19.4
 
 制作者
+
 ・hamu350
+
 ・mamorukun_neo
+
 ・Arisui321
 
 .mdについて
+
 ・advancements.md
 ➝アドバンスメントまとめ
 
