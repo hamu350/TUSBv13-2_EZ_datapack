@@ -1,0 +1,100 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "item:item/carrot_on_a_stick/enjoy_memory_star_rank2"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "item:item/carrot_on_a_stick/enjoy_memory_star_rank3"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "item:item/carrot_on_a_stick/enjoy_memory_star_rank2"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "item:item/carrot_on_a_stick/enjoy_memory_star_rank3"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head"
+        }
+      ],
+       "functions": [
+        {
+          "function": "minecraft:set_nbt",
+          
+          "tag":"{SkullOwner: {Properties: {textures: [{Value: \"ewogICJ0aW1lc3RhbXAiIDogMTc1MTk3Mzg2NzI5NSwKICAicHJvZmlsZUlkIiA6ICI3NDAwMDE1NjJhMTY0MzNlOWM0NWUwYjg1ZjM2ZTlkMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYW1vcnVrdW5fbmVvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY1MTlkZDgxY2FiMWY3NzllOTI2ODJlMThkZWRiODIzOTQzYWIwMWFjMTBiMDZlNWQ0NWMwYWU2OTNhYjNiMjciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMzQwYzBlMDNkZDI0YTExYjE1YThiMzNjMmE3ZTllMzJhYmIyMDUxYjI0ODFkMGJhN2RlZmQ2MzVjYTdhOTMzIgogICAgfQogIH0KfQ==\", Signature: \"huR6x8j9BKOzlZ7T5Nbb6LjaNsIcrJkvhPFZR0DqfD3XjSSaH7SQ+m5cRfykH9dqckDz7VjHcWFEyWafXDdr+4tjgd+qmAhnHY571S/5kkq7tLgK08iB6moI5XfvDcPqZ+wZnQR1Ck8tHpx5YjCtT+okAa6d+FluZ6GVkWbAmQbRfaEp8vd/ykLiOooI+fHVV4p9eKs4RvOErkahDjdEYeFFqczXAwNo69iLvlU6CXLhTDTWCJEyn5jXvi2KQpaJSLY8jlPb9he29ebjeDgyWndgQhEY+iCz9UwNY8HMwf3AAnf/Z5PHGEwekJrM6irlq1jPpbe/gIg0kqL3+nro9ZsidzD/MVEkVEqfML/JpcK5s70XuXNjSzatELf67LE/XCClePbjjBhb3iNnHhpC1UghqE8Ip3O4M10vQbHlN9M8GE8L4zgHdU+53HCzeg7EHoh5SQz7djAiHxt8ANHpm+LDH8pn2rQeEYLD1h7STe7tRURu/Ln93xHgCtNTtge0yHng/Ai2nBsrzKgZzyq1Ar7rgi+zSqWwzw+9WPr4RKSC4lo8s4tdsC6Jc8c8d2D1LAUJ2wHJRqwBDm5PDs1htDOTb65M5W3AnkEFOzkGsBNGA6Pf8FU3FtlHYC4nve1yXQK+uqbNtBA/l/1nd0h9PGk2HSJ6gnCVXzx4DPtDGgg=\"}]}, Id: [I; 1946157398, 706102078, -1673142088, 1597434320], Name: \"mamorukun_neo\"}}"
+        },
+        {
+          "function": "minecraft:set_count",
+          "count": {
+            "min": 64,
+            "max": 64
+          }
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "item:item/carrot_on_a_stick/enjoy_memory_star_rank3"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "item:item/carrot_on_a_stick/enjoy_memory_star_rank2"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "item:item/carrot_on_a_stick/enjoy_memory_star_rank3"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "item:item/carrot_on_a_stick/enjoy_memory_star_rank2"
+        }
+      ]
+    }
+  ]
+}

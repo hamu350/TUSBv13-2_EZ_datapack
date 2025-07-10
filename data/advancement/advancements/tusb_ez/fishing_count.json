@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:fishing_rod"
+    },
+    "title": "釣り同盟      ",
+    "description": "釣りを沢山行うと..?",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "advancement:ez_tips/root",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {}
+    }
+  },
+  "rewards": {
+    "function": "tusb_ez:fishing_rod_hooked"
+  }
+}

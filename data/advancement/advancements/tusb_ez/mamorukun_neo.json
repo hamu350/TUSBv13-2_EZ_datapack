@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_nugget",
+      "nbt": "{CustomModelData:1}"
+    },
+    "title": "タワーバンク復興援助",
+    "description": "タワーバンクに多額の寄付金を渡す",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "advancement:ez_tips/root",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

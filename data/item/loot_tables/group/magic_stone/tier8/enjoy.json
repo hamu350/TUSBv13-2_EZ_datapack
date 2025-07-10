@@ -1,0 +1,167 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 1
+      },
+      "entries": [
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/mystery/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/blade/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/add_fire/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/add_ice/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/add_lightning/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/add_light/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/add_dark/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/element/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/yin_yang/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/spirit/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/boost_fire/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/boost_ice/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/boost_lightning/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/boost_light/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/boost_dark/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/philosopher/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/purification/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/kamui/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/mystic/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/knockback/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/protection/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/projectile_protection/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/blast_protection/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/fire_protection/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/feather_falling/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/dragon_scale/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/life/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/mana/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/evolution/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/wave_of_element/8"
+        },
+        {
+          "weight": 1,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/double_break/8"
+        }
+      ]
+    }
+  ]
+}

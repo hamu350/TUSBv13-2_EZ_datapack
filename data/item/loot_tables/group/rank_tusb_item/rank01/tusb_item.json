@@ -1,0 +1,234 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "weight": 39,
+          "type": "loot_table",
+          "name": "item:item/bow/hunter_bow"
+        },
+        {
+          "weight": 49,
+          "type": "loot_table",
+          "name": "item:item/carrot_on_a_stick/carrot_on_a_carrot"
+        },
+        {
+          "weight": 44,
+          "type": "loot_table",
+          "name": "item:item/carrot_on_a_stick/summoner_tact"
+        },
+        {
+          "weight": 44,
+          "type": "loot_table",
+          "name": "item:item/carrot_on_a_stick/white_mage_closure"
+        },
+        {
+          "weight": 39,
+          "type": "loot_table",
+          "name": "item:item/carrot_on_a_stick/black_mage_mace"
+        },
+        {
+          "weight": 11,
+          "type": "loot_table",
+          "name": "item:item/carrot_on_a_stick/puppet_master_wrench"
+        },
+        {
+          "weight": 19,
+          "type": "loot_table",
+          "name": "item:item/carrot_on_a_stick/euphoric_face_pie"
+        },
+        {
+          "weight": 133,
+          "type": "loot_table",
+          "name": "item:item/carrot_on_a_stick/vile_ether"
+        },
+        {
+          "weight": 28,
+          "type": "loot_table",
+          "name": "item:item/carrot_on_a_stick/area_vile_ether"
+        },
+        {
+          "weight": 79,
+          "type": "loot_table",
+          "name": "item:item/carrot_on_a_stick/vile_immunity"
+        },
+        {
+          "weight": 56,
+          "type": "loot_table",
+          "name": "item:item/carrot_on_a_stick/holy_water"
+        },
+        {
+          "weight": 79,
+          "type": "loot_table",
+          "name": "item:item/carrot_on_a_stick/corn_soup"
+        },
+        {
+          "weight": 13,
+          "type": "loot_table",
+          "name": "item:item/carrot_on_a_stick/solar_wind"
+        },
+        {
+          "weight": 12,
+          "type": "loot_table",
+          "name": "item:item/carrot_on_a_stick/golden_mutton"
+        },
+        {
+          "weight": 30,
+          "type": "loot_table",
+          "name": "item:item/carrot_on_a_stick/antidote"
+        },
+        {
+          "weight": 56,
+          "type": "loot_table",
+          "name": "item:item/carrot_on_a_stick/anti_burn"
+        },
+        {
+          "weight": 56,
+          "type": "loot_table",
+          "name": "item:item/carrot_on_a_stick/anti_freeze"
+        },
+        {
+          "weight": 56,
+          "type": "loot_table",
+          "name": "item:item/carrot_on_a_stick/anti_paralyze"
+        },
+        {
+          "weight": 56,
+          "type": "loot_table",
+          "name": "item:item/carrot_on_a_stick/anti_confusion"
+        },
+        {
+          "weight": 56,
+          "type": "loot_table",
+          "name": "item:item/carrot_on_a_stick/anti_disease"
+        },
+        {
+          "weight": 56,
+          "type": "loot_table",
+          "name": "item:item/carrot_on_a_stick/anti_tnt"
+        },
+        {
+          "weight": 49,
+          "type": "loot_table",
+          "name": "item:item/carrot_on_a_stick/potato_tips"
+        },
+        {
+          "weight": 19,
+          "type": "loot_table",
+          "name": "item:item/carrot_on_a_stick/infinity_leather_memory_star"
+        },
+        {
+          "weight": 14,
+          "type": "loot_table",
+          "name": "item:item/carrot_on_a_stick/usual_iron_memory_star"
+        },
+        {
+          "weight": 199,
+          "type": "loot_table",
+          "name": "item:item/cookie/wafer_skylands"
+        },
+        {
+          "weight": 199,
+          "type": "loot_table",
+          "name": "item:item/cookie/wafer_ice"
+        },
+        {
+          "weight": 199,
+          "type": "loot_table",
+          "name": "item:item/cookie/wafer_nether"
+        },
+        {
+          "weight": 199,
+          "type": "loot_table",
+          "name": "item:item/cookie/wafer_gulliver"
+        },
+        {
+          "weight": 199,
+          "type": "loot_table",
+          "name": "item:item/cookie/wafer_cloudia"
+        },
+        {
+          "weight": 199,
+          "type": "loot_table",
+          "name": "item:item/cookie/beef_jerky"
+        },
+        {
+          "weight": 199,
+          "type": "loot_table",
+          "name": "item:item/cookie/marmite"
+        },
+        {
+          "weight": 199,
+          "type": "loot_table",
+          "name": "item:item/cookie/chocolate_chip"
+        },
+        {
+          "weight": 199,
+          "type": "loot_table",
+          "name": "item:item/cookie/void_confectionery"
+        },
+        {
+          "weight": 36,
+          "type": "loot_table",
+          "name": "item:item/elytra/ordinary_wings"
+        },
+        {
+          "weight": 99,
+          "type": "loot_table",
+          "name": "item:item/gold_nugget/mystery/1"
+        },
+        {
+          "weight": 39,
+          "type": "loot_table",
+          "name": "item:item/iron_axe/ninja_kodachi"
+        },
+        {
+          "weight": 44,
+          "type": "loot_table",
+          "name": "item:item/iron_sword/knight_greatsword"
+        },
+        {
+          "weight": 99,
+          "type": "loot_table",
+          "name": "item:item/leather_boots/infinity_leather_b"
+        },
+        {
+          "weight": 99,
+          "type": "loot_table",
+          "name": "item:item/leather_chestplate/infinity_leather_c"
+        },
+        {
+          "weight": 99,
+          "type": "loot_table",
+          "name": "item:item/leather_helmet/infinity_leather_h"
+        },
+        {
+          "weight": 99,
+          "type": "loot_table",
+          "name": "item:item/leather_leggings/infinity_leather_l"
+        },
+        {
+          "weight": 199,
+          "type": "loot_table",
+          "name": "item:item/potion/very_glow"
+        },
+        {
+          "weight": 199,
+          "type": "loot_table",
+          "name": "item:item/shield/cobblestone_shield"
+        },
+        {
+          "weight": 79,
+          "type": "loot_table",
+          "name": "item:item/shield/gold_ornaments_shield"
+        },
+        {
+          "weight": 44,
+          "type": "loot_table",
+          "name": "item:item/spider_eye/empty_can"
+        }
+      ]
+    }
+  ]
+}

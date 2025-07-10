@@ -1,0 +1,8 @@
+#> tusb_ez:fishing_rod_hooked
+#
+# asrisui頭ゲット
+#
+# @within functions tusb_ez:fishing_rod_hooked
+
+give @s player_head{SkullOwner: {Properties: {textures: [{Value: "ewogICJ0aW1lc3RhbXAiIDogMTc1MTg4NTIyMzE4NSwKICAicHJvZmlsZUlkIiA6ICI1OTM0ZGNhOWRhZjU0NTEyODk0OWRlOWU3ZjNiZDYyNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcmlzdWkzMjEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGM2OGZkNTg3OTlhNWI5NDA1ZmJmYjMxNDk5M2RmMTQxZjhhNDA0OWZkMjkyYWYxZmM0ZDAwMjg2ZDI3NTNjOSIKICAgIH0KICB9Cn0=", Signature: "kSp2EnBVR+ojQI827syMgmbbGLPw6fWR7DHBNhzKaFdkcya9P9b66cPDIivs7jEA50bGt5vclpMLU7arfTMMtTLKm/xJRKyHfVMIMsxu/WPw9qczhPrxkyNWT4W+18jgnfRUCJwSXwjI7hViqEpNXIGP30EPwfF8pxyvRRy4Qpxw6Dpu25+/uJgTYEdX1uY54+slgmHhQbyfuUbiByksU3RWYiu8jtXfcynPEAiYYYPRsY+UNwZnQCe6BFJ+HAK1fFcrgJS85JxNnsym5BqExQrBoEu+yjzbqWIFCE7YMMH4p3Kx7rl+OOzFh80mSWTok1cYjKFKUVUZzGF/at79w8a0+mGR19qR1cRhWe/QISRw9cbgvXpP9O0p8qRck207k8s/knzmLwVSgXU0cplZCtzT4ad97FQBWIoP/pbvZLo6F46JymMYm0C53aKe2Sf3RcPgsZA6NlEvb0vIGkjBSB9A41Z4Jc5dg6GZopq+VlAgnZnon0ufUQy+Cv/l8xVaIW/U9LLEKuP+K6Kd2VqxN8X3v12D013dn/+Xw5f0BAYGN16kcPRfe8DOBGpdpKfUb9QcnLnHk1QRCWIP622K/sVtmiztB1U97QwMca45npvx+hEdcEuOnsrMIIWDz5E8HDw4umyvnebkLaZ2NADA7TKJVoG2UR1c55J0njVH64s="}]}, Id: [I; 1496636585, -621460206, -1991647586, 2134627876], Name: "Arisui321"},display:{Lore:['{"text":"釣りキチ同盟へようこそ"}']},Enchantments:[{id:lure,lvl:99},{id:luck_of_the_sea,lvl:99}]} 64
+give @s fishing_rod{Unbreakable:1b,Enchantments:[{id:lure,lvl:5}],display:{Name:'{"text":"釣りキチ同盟の証"}',Lore:['{"text": "亜璃水がしみ込んだ釣り竿。壊れる気がしない。"}']}} 1

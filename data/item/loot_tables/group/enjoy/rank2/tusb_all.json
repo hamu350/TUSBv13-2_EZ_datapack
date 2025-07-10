@@ -1,0 +1,29 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "weight": 4,
+          "type": "loot_table",
+          "name": "item:group/rank_tusb_item/rank06/tusb_item"
+        },
+        {
+          "weight": 3,
+          "type": "loot_table",
+          "name": "item:group/rank_tusb_item/rank07/tusb_item"
+        },
+        {
+          "weight": 3,
+          "type": "loot_table",
+          "name": "item:group/rank_tusb_item/rank08/tusb_item"
+        },
+        {
+          "weight": 2,
+          "type": "loot_table",
+          "name": "item:group/rank_tusb_item/rank09/tusb_item"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:lime_wool",
+      "nbt": "{}"
+    },
+    "title": [
+      {
+        "translate": "TUSB_EZ -進捗-",
+        "color": "white",
+        "bold": true
+      }
+    ],
+    "description": {
+      "translate": "TIPSまとめや進捗",
+      "color": "green"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true,
+    "background": "minecraft:textures/block/green_stained_glass.png"
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

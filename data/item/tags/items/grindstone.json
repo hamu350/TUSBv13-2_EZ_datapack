@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:grindstone",
+    "minecraft:magenta_stained_glass_pane",
+    "minecraft:purple_stained_glass_pane"
+  ]
+}

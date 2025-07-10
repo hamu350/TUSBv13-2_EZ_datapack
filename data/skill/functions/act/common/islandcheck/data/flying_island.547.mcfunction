@@ -1,0 +1,9 @@
+#> skill:act/common/islandcheck/data/flying_island.447
+#
+# 
+#
+
+tellraw @s [{"translate":"[%1$s]","color":"#00ff80","with":[{"translate":"一覧に戻る"}],"clickEvent":{"action": "run_command","value": "/trigger ChangeSettings set 200"}},{"translate":" / ","color": "white","clickEvent":{"action": "run_command","value": ""}},{"translate":"[%1$s]","color":"#808080","with":[{"translate":"前のページ"}],"clickEvent":{"action": "run_command","value": "/trigger ChangeSettings set 220"}}]
+tellraw @s [{"text":"飛空島道場"},{"text": "   難易度:"},{"text":"簡単","color": "green"}]
+tellraw @s [{"text":"[腕試しをしてみよう！]"}]
+tellraw @s [{"text":"[中央を下った先の火力に注意。]"}]
