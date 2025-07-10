@@ -8,6 +8,8 @@
 
 ## debug:tusb_memory_plus/load_skill/common1
 
+・追加スキル用
+
 ## debug:tusb_memory_plus/load_skill/ninja
 
 ・追加スキル用
@@ -49,12 +51,12 @@
 
 ## item:functions/grindstone/内のfunction
 
-## ・item:enchant/enchanting_table/内のfunctionを砥石に変換したfunction
+・item:enchant/enchanting_table/内のfunctionを砥石に変換したfunction
 
 
 ## item:grindstone/enchant/check
 
-## ・item:enchant/enchant/checkを砥石に変換
+・item:enchant/enchant/checkを砥石に変換
 
 ・魔石のtierとアイテムのtierが同じか確認する function ## item:grindstone/enchant/check_tier へ続く
 
@@ -63,7 +65,7 @@
 
 ・EnchantmentsとLore、AttributeModifiersを初期化
 
-## ・item:enchant/enchant/success/init と似た構造
+・item:enchant/enchant/success/init と似た構造
 
 ・確定エンチャ枠を付与するための loot ## item:enchant/grindstone に続く
 
@@ -128,6 +130,8 @@
 ・狩人バーストtickパーティクル
 
 ## player:game_settings/show_world_info/flying_island/
+
+・島情報クリックイベントを追加、難易度別に色分け
 
 ## player:game_settings/show_world_info/skylands/page_(1-5)
 
@@ -385,7 +389,7 @@
 
 ・はむチャレンジ
 
-## ・minecraft:netherite_axeであることを検知
+・minecraft:netherite_axeであることを検知
 
 
 ## tusb_ez:fishing_rod_hooked
