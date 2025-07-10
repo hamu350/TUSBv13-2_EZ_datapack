@@ -1,4 +1,4 @@
-# ファンクション
+# functions
 
 
 ## area:system/island_capture➝area:system/island_remove
