@@ -1,4 +1,4 @@
-### predicates
+# predicates
 
 skill:regeneration
 
