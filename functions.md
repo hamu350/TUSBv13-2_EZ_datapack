@@ -382,7 +382,7 @@
 
 ・はむチャレンジ2
 
-## ・CustomModelData:2であることを検知
+・CustomModelData:2であることを検知
 
 
 ## tusb_ez:check_hamu
